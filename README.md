@@ -54,8 +54,6 @@ class Person:
         else:
             return t
 
-
-
 p1 = Person("Akshay", 26)
 p2 = Person("Saurabh", 30)
 
