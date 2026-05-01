@@ -55,7 +55,7 @@ class Person:
             return t
 
 
-# Main program
+
 p1 = Person("Akshay", 26)
 p2 = Person("Saurabh", 30)
 
