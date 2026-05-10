@@ -1,4 +1,3 @@
-
 # 👤 Younger Person Comparison (Python – Java Style Logic)
 
 ## 📌 Description
